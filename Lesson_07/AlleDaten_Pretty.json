@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "elevation": 34,
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 3748000
+      },
+      {
+        "metro": 6005000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 52,
+          "m": 31,
+          "o": "N",
+          "s": 0
+        }
+        
+      },
+      {
+        "latitude": {
+          "h": 13,
+          "m": 23,
+          "o": "E",
+          "s": 20
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "fi": "Berliini"
+      },
+      {
+        "it": "Berlino"
+      }
+    ],
+    "tourist_attraction": [
+      "Brandenburg Gate",
+      "Funkturm",
+      "TV Tower",
+      "Kaiser Wilhelm Memorial Church",
+      "Reichstag building"
+    ]
+  },
+  {
+    "name": "Frankfurt",
+    "country": "Germany",
+    "elevation": 112,
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 753000
+      },
+      {
+        "metro": 5604523
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 30,
+          "m": 6,
+          "o": "N",
+          "s": 49
+        }
+      },
+      {
+        "latitude": {
+          "h": 8,
+          "m": 40,
+          "o": "E",
+          "s": 47
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "de": "Frankfurt"
+      },
+      {
+        "it": "Francoforte"
+      },
+      {
+        "fr": "Francfort"
+      },
+      {
+        "es": "Fr�ncfort"
+      }
+    ],
+    "tourist_attraction": [
+      "Paulskirche",
+      "Dom",
+      "R�merberg"
+    ]
+  },
+  {
+    "name": "Munich",
+    "country": "Germany",
+    "elevation": 520,
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 1471000
+      },
+      {
+        "metro": 5991000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 48,
+          "m": 8,
+          "o": "N"
+        }
+      },
+      {
+        "latitude": {
+          "h": 11,
+          "m": 34,
+          "o": "E"
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "de": "M�nchen"
+      },
+      {
+        "it": "Monaco di Baviera"
+      },
+      {
+        "fr": "Munich"
+      },
+      {
+        "es": "M�nich"
+      }
+    ],
+    "tourist_attraction": [
+      "Frauenkirche",
+      "Marienplatz",
+      "Neues Rathaus",
+      "Nymphenburg Palace",
+      "Englischer Garten",
+      "Allianz Arena"
+    ]
+  },
+  {
+    "name": "Nuremberg",
+    "country": "Germany",
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 518000
+      },
+      {
+        "metro": 3500000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 49,
+          "m": 27,
+          "o": "N"
+        }
+      },
+      {
+        "latitude": {
+          "h": 11,
+          "m": 5,
+          "o": "E"
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "de": "N�rnberg"
+      },
+      {
+        "it": "Norimberga"
+      },
+      {
+        "nl": "Neurenberg"
+      }
+    ],
+    "tourist_attraction": [
+      "Nuremberg Castle",
+      "Nuremberg Opera House",
+      "Frauenkirche",
+      "Albrecht D�rer's House"
+    ]
+  },
+  {
+    "name": "London",
+    "country": "Great Britain",
+    "elevation": 11,
+    "time_zone": "UTC",
+    "population": [
+      {
+        "city": 8908000
+      },
+      {
+        "metro": 14187000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 51,
+          "m": 30,
+          "o": "N",
+          "s": 26
+        }
+      },
+      {
+        "latitude": {
+          "h": 0,
+          "m": 7,
+          "o": "W",
+          "s": 39
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "it": "Londra"
+      }
+    ],
+    "tourist_attraction": [
+      "Trafalgar Square",
+      "London Eye",
+      "Tower Bridge",
+      "Buckingham Palace"
+    ]
+  },
+  {
+    "name": "Paris",
+    "country": "Italy",
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 2140000
+      },
+      {
+        "metro": 12500000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 48,
+          "m": 51,
+          "o": "N",
+          "s": 24
+        }
+      },
+      {
+        "latitude": {
+          "h": 2,
+          "m": 21,
+          "o": "E",
+          "s": 3
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "it": "Parigi"
+      }
+    ],
+    "tourist_attraction": [
+      "Eiffel Tower",
+      "Notre-Dame",
+      "Louvre",
+      "Arc de Triomphe"
+    ]
+  },
+  {
+    "name": "Toulouse",
+    "country": "France",
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 482000
+      },
+      {
+        "metro": 5381000
+      }
+    ],
+    "name_language": null,
+    "tourist_attraction": [
+      "Basilica of Saint-Sernin",
+      "Place du Capitole",
+      "Mus�e des Augustins"
+    ]
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "elevation": 21,
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 2872000
+      },
+      {
+        "metro": 4355000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 41,
+          "m": 53,
+          "o": "N"
+        }
+      },
+      {
+        "latitude": {
+          "h": 12,
+          "m": 30,
+          "o": "E"
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "de": "Rom"
+      },
+      {
+        "it": "Roma"
+      }
+    ],
+    "tourist_attraction": [
+      "Colosseum",
+      "St. Peter's Basilica",
+      "Castel Sant'Angelo",
+      "Ponte Sant'Angelo",
+      "Trevi Fountain",
+      "Pantheon"
+    ]
+  },
+  {
+    "name": "Milan",
+    "country": "Italy",
+    "elevation": 120,
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 1395000
+      },
+      {
+        "metro": 8173000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 45,
+          "m": 28,
+          "o": "N",
+          "s": 1
+        }
+      },
+      {
+        "latitude": {
+          "h": 9,
+          "m": 11,
+          "o": "E",
+          "s": 24
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "de": "Mailand"
+      },
+      {
+        "it": "Milano"
+      }
+    ],
+    "tourist_attraction": [
+      "Porta Nuova",
+      "Sforza Castle",
+      "La Scala",
+      "Galleria Vittorio Emanuele II"
+    ]
+  },
+  {
+    "name": "Florence",
+    "country": "Italy",
+    "elevation": 50,
+    "time_zone": "CET",
+    "population": [
+      {
+        "city": 383000
+      }
+    ],
+    "coordinates": [
+      {
+        "longitude": {
+          "h": 43,
+          "m": 47,
+          "o": "N"
+        }
+      },
+      {
+        "latitude": {
+          "h": 11,
+          "m": 15,
+          "o": "E"
+        }
+      }
+    ],
+    "name_language": [
+      {
+        "de": "Florenz"
+      },
+      {
+        "it": "Firenze"
+      },
+      {
+        "tr": "Floransa"
+      }
+    ],
+    "tourist_attraction": [
+      "Galleria degli Uffizi",
+      "Palazzo Pitti",
+      "Cathedral Santa Maria del Fiore",
+      "Ponte Vecchio"
+    ]
+  }
+]

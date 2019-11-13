@@ -1,6 +1,5 @@
 DROP TABLE Adress;
 
-
 CREATE TABLE Adress(
     AdressNr    NUMBER(10) PRIMARY KEY,
     Name        VARCHAR(30),
